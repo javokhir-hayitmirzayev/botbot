@@ -1,0 +1,1 @@
+from .router import consumer_router  # noqa

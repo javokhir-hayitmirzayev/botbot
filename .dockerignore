@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+.pytest_cache
+.venv
+venv
+env
+
+# VCS
+.git
+.gitignore
+
+# Env / config
+.env
+.env.example
+*.log
+
+# IDE
+.vscode/
+.idea/
+.claude
+
+# Local data
+data/
+bot.db
+bot.db-journal
+
+# Docs
+*.md
